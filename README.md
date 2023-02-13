@@ -1,3 +1,5 @@
+GH pages: https://ajoq.github.io/ra-4-forms-4.1-hex2rgb
+
 # Конвертер цветов из HEX в RGB
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
