@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import hexRgb from '../hexRgb';
+import hexRgb from '../../utils/hexRgb';
 import './index.css';
 
 function Converter() {
