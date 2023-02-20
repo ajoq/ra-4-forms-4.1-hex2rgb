@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import hexRgb from '../../utils/hexRgb';
+import ConverterInput from '../ConverterInput';
 import './index.css';
 
 function Converter() {
@@ -41,16 +42,7 @@ function Converter() {
                 style={{ backgroundColor: conv.bodyColor }}
             >
                 <div className="fields">
-                    <div className="before-input">
-                        <input
-                            name="hex"
-                            className="input"
-                            type="text"
-                            value={conv.hex}
-                            onChange={handleInput}
-                            placeholder="34495e"
-                        />
-                    </div>
+                    <ConverterInput hex={conv.hex} handleInput={handleInput} />
                     <p className="result">{conv.rgb}</p>
                 </div>
             </div>

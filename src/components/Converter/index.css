@@ -11,18 +11,6 @@
     position: relative;
 }
 
-.before-input::before {
-    content: '#';
-    position: absolute;
-    top: 15px;
-    left: 15px;
-}
-
-.input {
-    height: 46px;
-    text-align: center;
-}
-
 .result {
     background-color: #0005;
     color: #fff;

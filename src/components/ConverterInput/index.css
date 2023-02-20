@@ -1,0 +1,11 @@
+.before-input::before {
+    content: '#';
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.input {
+    height: 46px;
+    text-align: center;
+}
