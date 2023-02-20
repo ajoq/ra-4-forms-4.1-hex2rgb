@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ra-4-forms-4.1-hex2rgb/static/css/main.ffa2524b.css",
-    "main.js": "/ra-4-forms-4.1-hex2rgb/static/js/main.db1cc896.js",
+    "main.css": "/ra-4-forms-4.1-hex2rgb/static/css/main.18ac96dc.css",
+    "main.js": "/ra-4-forms-4.1-hex2rgb/static/js/main.32fbafff.js",
     "index.html": "/ra-4-forms-4.1-hex2rgb/index.html",
-    "main.ffa2524b.css.map": "/ra-4-forms-4.1-hex2rgb/static/css/main.ffa2524b.css.map",
-    "main.db1cc896.js.map": "/ra-4-forms-4.1-hex2rgb/static/js/main.db1cc896.js.map"
+    "main.18ac96dc.css.map": "/ra-4-forms-4.1-hex2rgb/static/css/main.18ac96dc.css.map",
+    "main.32fbafff.js.map": "/ra-4-forms-4.1-hex2rgb/static/js/main.32fbafff.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffa2524b.css",
-    "static/js/main.db1cc896.js"
+    "static/css/main.18ac96dc.css",
+    "static/js/main.32fbafff.js"
   ]
 }
